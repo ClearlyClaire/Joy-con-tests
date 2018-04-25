@@ -1,0 +1,4 @@
+Quick & dirty Joy-Con HD rumble tests.
+
+Make sure you are using hidapi-hidraw and not hidapi-usb, as the Joy-Con are
+connected via bluetooth…
